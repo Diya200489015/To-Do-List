@@ -1,0 +1,40 @@
+ /* Name - Diya Diya
+ Student number - 200489015
+ Assignemnt - 3
+ Course - COMP1073 Client-Side JavaScript */
+
+ /* Added css to created an awesome page view */
+
+div{
+  padding: 50px 50px 70px 50px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  min-width: 250px;
+  box-sizing: border-box;
+  background-color: rgb(250, 223, 112); 
+}
+
+table{
+  padding-left: 130px;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  background-color: rgb(215, 183, 23);
+}
+
+input{
+  width: 50%;
+  height: 25%;
+}
+
+button {
+ width: 25%;
+ height: 225%;
+}
+
